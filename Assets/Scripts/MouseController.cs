@@ -43,9 +43,9 @@ void Start()
        
         transform.position = tileHit.WorldPosition; // Utilise la position correcte du centre de la cellule
        
-        Tilemap tilemap =tileHit.RaycastHit.collider.GetComponent<Tilemap>();
-        Debug.Log("Tilemap: " + tilemap);
-        Debug.Log("Tilemap: " + tilemap.name);
+        // TilemapRenderer tilemap =tileHit.RaycastHit.collider.GetComponent<TilemapRenderer>();
+        // Debug.Log("Tilemap: " + tilemap);
+        // Debug.Log("Tilemap: " + tilemap.name);
 
 
 
