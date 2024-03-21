@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4834109273749705335}
   - component: {fileID: 6387463229733507392}
   - component: {fileID: 7701224210989551580}
+  - component: {fileID: 52780186819944936}
   m_Layer: 0
   m_Name: OverlayTile
   m_TagString: Untagged
@@ -27,8 +28,8 @@ Transform:
   m_GameObject: {fileID: 5090675020900855596}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.51, y: -2.085, z: 0}
-  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
+  m_LocalPosition: {x: 0.51, y: -2.085, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -73,7 +74,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -379448479
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: 34
   m_Sprite: {fileID: 21300000, guid: ddb4cc62c49c66841928b99eefcc7d56, type: 3}
   m_Color: {r: 0.7924528, g: 0.2807738, b: 0.0124598695, a: 0}
   m_FlipX: 0
@@ -121,7 +122,7 @@ PolygonCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.28, y: 0.72}
+    oldSize: {x: 1, y: 0.5625}
     newSize: {x: 0.32, y: 0.18}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -135,3 +136,15 @@ PolygonCollider2D:
       - {x: 0.007034898, y: -0.33156356}
       - {x: 0.6446113, y: 0.03443119}
   m_UseDelaunayMesh: 0
+--- !u!114 &52780186819944936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5090675020900855596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57532fdf67d255846b530fed766a15e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
