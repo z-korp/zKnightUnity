@@ -284,6 +284,7 @@ MonoBehaviour:
   moveSpeed: 5
   cellSize: 1
   tilemap: {fileID: 1993894838}
+  characterRange: {fileID: 39407098}
 --- !u!114 &39407098
 MonoBehaviour:
   m_ObjectHideFlags: 0

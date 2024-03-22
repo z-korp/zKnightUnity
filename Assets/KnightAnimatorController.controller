@@ -50,7 +50,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: BlendWalk
-  m_Speed: 0.25
+  m_Speed: 0.125
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -1108125851093943693}
@@ -540,7 +540,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Walk
-  m_Speed: 1
+  m_Speed: 100
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 2664308429030708269}
