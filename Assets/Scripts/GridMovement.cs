@@ -13,8 +13,11 @@ public class GridMovement : MonoBehaviour
 
     public CharacterRange characterRange;
 
+    private Animator animator;
+
     private void Start()
     {
+        animator = GetComponent<Animator>();
         targetPosition = transform.position;
         Debug.Log($"Start position: {targetPosition}");
     }
@@ -46,11 +49,13 @@ public class GridMovement : MonoBehaviour
             {
                 return;
             }
-            Debug.Log($"{cellPosition}");
-            Debug.Log($"{tilemap}");
        
             targetPosition=tilemap.GetCellCenterWorld(cellPosition);
-            Debug.Log($"Moving to grid position: {cellPosition} / Adjusted world position: {targetPosition}");
+
+            Vector3 moveVector = cellPosition - playerCellPosition;
+            Debug.Log($"MoveVector: {moveVector}");
+            animator.SetFloat("MoveX", moveVector.x);
+            animator.SetFloat("MoveY", moveVector.y);
     }
 
     void MoveCharacter(Vector3 targetPosition)
@@ -60,12 +65,12 @@ public class GridMovement : MonoBehaviour
         Vector3 intermediatePosition = new Vector3(targetPosition.x, transform.position.y, transform.position.z);
         if (Vector3.Distance(transform.position, intermediatePosition) > 0.1f)
         {
-            Debug.Log($"Moving character from {transform.position} to {intermediatePosition}");
+            // Debug.Log($"Moving character from {transform.position} to {intermediatePosition}");
             transform.position = Vector3.MoveTowards(transform.position, intermediatePosition, moveSpeed * Time.deltaTime);
         }
         else
         {
-            Debug.Log($"Moving character from {transform.position} to {targetPosition}");
+            // Debug.Log($"Moving character from {transform.position} to {targetPosition}");
             transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
         }
     }

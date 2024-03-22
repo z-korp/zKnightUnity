@@ -32,7 +32,7 @@ public class CharacterAnimator : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.J))
        {
         Debug.Log("J");
-          animator.Play("WalkDown");
+          animator.Play("Walk");
        }
         // Debug pour v�rifier si l'animation "WalkDown" est jou�e
         if (animator.GetBool("WalkDown"))

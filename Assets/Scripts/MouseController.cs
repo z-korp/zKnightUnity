@@ -1,4 +1,3 @@
-using System.Linq;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
@@ -7,6 +6,7 @@ public struct TileHit
     public RaycastHit2D RaycastHit;
     public Vector3Int CellPosition;
     public Vector3 WorldPosition;
+
 }
 
 public class MouseController : MonoBehaviour
@@ -15,6 +15,7 @@ public class MouseController : MonoBehaviour
     public Tilemap tilemap2;
 
     public MapGenerator mapGenerator;
+
 
     void Start()
     {
