@@ -23,9 +23,6 @@ public class CharacterRange : MonoBehaviour
         Vector3 playerWorldPoint = transform.position;
         Vector3Int playerCellPosition = tilemap.WorldToCell(playerWorldPoint);
 
-        Debug.Log($"Mouse cell position: {mouseCellPosition}");
-        Debug.Log($"Player cell position: {playerCellPosition}");
-
         // Check if mouse is over the player's cell
         if (mouseCellPosition == playerCellPosition)
         {
