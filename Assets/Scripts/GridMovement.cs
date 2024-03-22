@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
-
+using System.Collections.Generic;
+using System.Linq;
 public class GridMovement : MonoBehaviour
 {
     public Camera cam;
@@ -9,6 +10,8 @@ public class GridMovement : MonoBehaviour
     public float cellSize = 0.1f; // Taille de la cellule de ta grille isométrique
 
     public Tilemap tilemap;
+
+    public CharacterRange characterRange;
 
     private void Start()
     {
@@ -34,6 +37,15 @@ public class GridMovement : MonoBehaviour
          Vector3 worldPoint = cam.ScreenToWorldPoint(mousePos);
          
             Vector3Int cellPosition = tilemap.WorldToCell(worldPoint);
+
+            Vector3Int playerCellPosition = tilemap.WorldToCell(transform.position);
+            List<Vector3Int> neighborCells = characterRange.GetNeighborCells(playerCellPosition);
+            Debug.Log(neighborCells.First());
+            Debug.Log(playerCellPosition);
+           if(!neighborCells.Contains(cellPosition))
+            {
+                return;
+            }
             Debug.Log($"{cellPosition}");
             Debug.Log($"{tilemap}");
        
