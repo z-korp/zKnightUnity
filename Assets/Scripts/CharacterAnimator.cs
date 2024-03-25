@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class CharacterAnimator : MonoBehaviour
 {
+    public AudioClip swingSound;
     Animator animator;
 
     void Start()
@@ -20,30 +21,31 @@ public class CharacterAnimator : MonoBehaviour
 
     void Update()
     {
-        
 
-        if(Input.GetKeyDown(KeyCode.Space))
+
+        if (Input.GetKeyDown(KeyCode.Space))
         {
+            AudioManager.instance.PlayClipAt(swingSound, transform.position);
             // animator.SetTrigger("Blend Tree Attack");
             Debug.Log("attacknottom");
             animator.Play("Attack");
         }
 
-        if(Input.GetKeyDown(KeyCode.J))
-       {
-        Debug.Log("J");
-          animator.Play("Walk");
-       }
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+            Debug.Log("J");
+            animator.Play("Walk");
+        }
         // Debug pour v�rifier si l'animation "WalkDown" est jou�e
         if (animator.GetBool("WalkDown"))
         {
-          
+
             //logger la valeur de animator.getAnimatorTransitionInfo
-            
+
         }
         else
         {
-           
+
         }
 
         // Ici, tu peux ajouter ton input management plus tard...

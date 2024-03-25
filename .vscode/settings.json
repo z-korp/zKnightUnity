@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "template.sln"
+    "dotnet.defaultSolution": "zKnightUnity.sln"
 }
