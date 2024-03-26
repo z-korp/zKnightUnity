@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9ac54d57bb74cb6870adaa561ceb2d, type: 3}
+  m_Name: Bowman
+  m_EditorClassIdentifier: 
+  id: 2
+  enemyName: Bowman
+  description: A man with a bow
+  imageEnemy: {fileID: -1318381912, guid: 78358775ab5657d46b2da8ad4b8f4ad8, type: 3}
+  health: 1
+  movementRange: 1
+  attackRange: 4
+  attackDamage: 2
+  idleAnimation: {fileID: 7400000, guid: ab5e8c137eee9447e9640e77db811ff9, type: 2}
