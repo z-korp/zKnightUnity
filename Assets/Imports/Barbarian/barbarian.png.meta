@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4f1f67c9e676a5c439ae1c14f44bfa48
+guid: 5acd823c409dce44d97629ae013c9f6d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: knight_0
+      name: barbarian_0
       rect:
         serializedVersion: 2
         x: 0
@@ -118,20 +118,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e0e9371ca279a64686c46a799c7177c
-      internalID: -505856929
+      spriteID: 8dcaee5b4dff440309e8a9d21f207e1d
+      internalID: 460589901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_1
+      name: barbarian_1
       rect:
         serializedVersion: 2
         x: 32
@@ -139,20 +139,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2959b412ed1a66e4b8a05a73ec92fc2e
-      internalID: 929658797
+      spriteID: 96a12a3f915314f32a35af5805cf1b64
+      internalID: -1871091786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_2
+      name: barbarian_2
       rect:
         serializedVersion: 2
         x: 64
@@ -160,20 +160,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9561119e7dd232b4abb28ea1d6f7132d
-      internalID: 1479679677
+      spriteID: 330179ed9fe804ac78dd4bad4d7a6cb4
+      internalID: -925339639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_3
+      name: barbarian_3
       rect:
         serializedVersion: 2
         x: 96
@@ -181,20 +181,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 798f567b4e7a8f744a5d694497303c33
-      internalID: 2097712770
+      spriteID: 8d0a5238347954beabf23b26345821fc
+      internalID: 404145474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_4
+      name: barbarian_4
       rect:
         serializedVersion: 2
         x: 128
@@ -202,20 +202,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9ee4c094b7b4124aaae82de7f61d035
-      internalID: 2005707991
+      spriteID: d222413b2c0d743968bbdb36c4da1ffb
+      internalID: 1857616441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_5
+      name: barbarian_5
       rect:
         serializedVersion: 2
         x: 160
@@ -223,20 +223,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1e3acff6ecaee044a29a9a29740d212
-      internalID: -1380660302
+      spriteID: 48023cb565b5e4b2cb9712a5bb895726
+      internalID: -338273355
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_6
+      name: barbarian_6
       rect:
         serializedVersion: 2
         x: 192
@@ -244,20 +244,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5439eb82ed975f246928e26d54a90380
-      internalID: -1952430268
+      spriteID: 540cdcddcddef44b5b016066feebfc8e
+      internalID: 1722697843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_7
+      name: barbarian_7
       rect:
         serializedVersion: 2
         x: 224
@@ -265,20 +265,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37deeb69a22b4d249890860572da353c
-      internalID: 1924039223
+      spriteID: 84171d70192144d7783d9810a0303407
+      internalID: -1528748944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_8
+      name: barbarian_8
       rect:
         serializedVersion: 2
         x: 256
@@ -286,20 +286,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84cf6abb6307e2143b636d0d651f35d1
-      internalID: -1126689817
+      spriteID: 50c3c0e2156be44e7ab994a3435737a8
+      internalID: 1851517759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_9
+      name: barbarian_9
       rect:
         serializedVersion: 2
         x: 288
@@ -307,20 +307,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 606abc3a937bbfb4e98e7d356d0cc381
-      internalID: -576081849
+      spriteID: f259aed765bb64a9b8f1fa35b3e9c125
+      internalID: -1952932663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_10
+      name: barbarian_10
       rect:
         serializedVersion: 2
         x: 320
@@ -328,20 +328,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c91455379304d70498f19bdb71abe32e
-      internalID: -1930458129
+      spriteID: 429e943c7d2b24172a266a1f47743a67
+      internalID: 187885749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_11
+      name: barbarian_11
       rect:
         serializedVersion: 2
         x: 352
@@ -349,20 +349,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 862fa3e4a9fe4ae4cb4720c9cc0843aa
-      internalID: 2037042130
+      spriteID: fc269c931c80045f2ac98513df3cefb5
+      internalID: -304197915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_12
+      name: barbarian_12
       rect:
         serializedVersion: 2
         x: 384
@@ -370,20 +370,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48df0010535118346acf7d2649407b20
-      internalID: -973866565
+      spriteID: 20a5e69b1e5c84660a863f33ba3a4fef
+      internalID: 465759288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_13
+      name: barbarian_13
       rect:
         serializedVersion: 2
         x: 416
@@ -391,20 +391,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7acd6472a1ac9c749a0049a2ea88a76d
-      internalID: 2145194458
+      spriteID: 896f020c0a0854dce81d94a7740a3cb3
+      internalID: -1718294151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_14
+      name: barbarian_14
       rect:
         serializedVersion: 2
         x: 448
@@ -412,20 +412,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1295dd9b53d26de4dba8e6b6ee2f8900
-      internalID: -1524094801
+      spriteID: b0dfbce01a354449fb6598231ba04516
+      internalID: 1315535972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_15
+      name: barbarian_15
       rect:
         serializedVersion: 2
         x: 480
@@ -433,20 +433,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff62b5ba1277a2448b28181c40049fec
-      internalID: -633344658
+      spriteID: fe0601263824944d183afe23334898ef
+      internalID: -973346530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_16
+      name: barbarian_16
       rect:
         serializedVersion: 2
         x: 512
@@ -454,20 +454,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa1327d6525140c49bad6995b75c7687
-      internalID: -1714944255
+      spriteID: 44f8f32d16dab413d9d3fd3c15df2eef
+      internalID: -247783475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_17
+      name: barbarian_17
       rect:
         serializedVersion: 2
         x: 544
@@ -475,20 +475,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adfc5a643891ddd42a4bba4a1cff9dfa
-      internalID: -1866345678
+      spriteID: f8df88c3ae1794a98a0a597c56992626
+      internalID: 1557760508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_18
+      name: barbarian_18
       rect:
         serializedVersion: 2
         x: 576
@@ -496,20 +496,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da12d7a6272eaf248935495f61fd71bb
-      internalID: -497114067
+      spriteID: 824b36d00514f445f9b65f06fb84e685
+      internalID: 486797956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_19
+      name: barbarian_19
       rect:
         serializedVersion: 2
         x: 608
@@ -517,20 +517,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aeaf3d26bc5e99c419bdafa75ffd76a1
-      internalID: 864741057
+      spriteID: 40a678ca394154943856e5bcb634fb53
+      internalID: -621598093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_20
+      name: barbarian_20
       rect:
         serializedVersion: 2
         x: 640
@@ -538,20 +538,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd0d86cfd4e247749be9e42520a193df
-      internalID: 1323277766
+      spriteID: ba289128152d64f35b8b55a3c6fa767b
+      internalID: -1461112741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_21
+      name: barbarian_21
       rect:
         serializedVersion: 2
         x: 672
@@ -559,20 +559,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a12c8deb89b214d4d81d0bce40afd62c
-      internalID: -1649889785
+      spriteID: 79cb6f6a0e6da4dcabdeb830628dbd4c
+      internalID: -721069993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_22
+      name: barbarian_22
       rect:
         serializedVersion: 2
         x: 704
@@ -580,20 +580,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5508a5f91e4c95b48b29a3240ee798f2
-      internalID: -555302968
+      spriteID: 03e852b60acd64d3b938f6f528882877
+      internalID: 1750373005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_23
+      name: barbarian_23
       rect:
         serializedVersion: 2
         x: 736
@@ -601,20 +601,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36e6f912279a0b54d892734d64a8f8d1
-      internalID: 1284123146
+      spriteID: c5fc5cb90fb43426c9738bcdc974eb5f
+      internalID: 1184576236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_24
+      name: barbarian_24
       rect:
         serializedVersion: 2
         x: 768
@@ -622,20 +622,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3530b80678ca6094097bc6bd180987b6
-      internalID: 1527538145
+      spriteID: 8614e273129c34926a9bab46424f80b6
+      internalID: -1402113421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_25
+      name: barbarian_25
       rect:
         serializedVersion: 2
         x: 800
@@ -643,20 +643,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f627effd1581a5a4aa4bc824c8bbebbf
-      internalID: -1374591636
+      spriteID: 79c40bd04030a489882b2b3f45e7cf6a
+      internalID: -798090565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_26
+      name: barbarian_26
       rect:
         serializedVersion: 2
         x: 832
@@ -664,20 +664,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 296d5b583262ad4439faa5abcf31e390
-      internalID: -809639278
+      spriteID: b490d35ea9258468d82df52d9099218d
+      internalID: 559525157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_27
+      name: barbarian_27
       rect:
         serializedVersion: 2
         x: 864
@@ -685,20 +685,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37bbf03a7c3446745842e5fee1f1c6a0
-      internalID: -614962097
+      spriteID: c45a6c2a35cd1456dbd70c02accb9595
+      internalID: -921091668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_28
+      name: barbarian_28
       rect:
         serializedVersion: 2
         x: 0
@@ -706,20 +706,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96814d397d645a842b3f2941f748d245
-      internalID: 1884484855
+      spriteID: b1acd04492d354c8e881bc0eaaec09f9
+      internalID: 1608586650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_29
+      name: barbarian_29
       rect:
         serializedVersion: 2
         x: 32
@@ -727,20 +727,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e376939ab3e31443b4e11999fefb9dc
-      internalID: 1236029019
+      spriteID: 0a9f5bc56d7ef4141a69a062f69acd60
+      internalID: 365598652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_30
+      name: barbarian_30
       rect:
         serializedVersion: 2
         x: 64
@@ -748,20 +748,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 317031330dec9d44bb8c055b49474dd4
-      internalID: -684933164
+      spriteID: 177cdd5db577e4a4caaf8017ae1b3726
+      internalID: 45745008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_31
+      name: barbarian_31
       rect:
         serializedVersion: 2
         x: 96
@@ -769,20 +769,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ba023b9533de6e4489c4188419e8e12
-      internalID: 1494419601
+      spriteID: d3c7f8d2d5b504557892e74eba4bfacb
+      internalID: -900298756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_32
+      name: barbarian_32
       rect:
         serializedVersion: 2
         x: 128
@@ -790,20 +790,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0c0cdc397f65e643a298827063f3c7b
-      internalID: 920613114
+      spriteID: 366f7c039589447ee911dfa80002af6b
+      internalID: -1848905480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_33
+      name: barbarian_33
       rect:
         serializedVersion: 2
         x: 160
@@ -811,20 +811,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 111f026a3eb33c9418976e0d37a8b9fe
-      internalID: 1697108232
+      spriteID: 0813a9988e35f4d9389309aac941cc9a
+      internalID: -838896045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_34
+      name: barbarian_34
       rect:
         serializedVersion: 2
         x: 192
@@ -832,20 +832,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 282ed5137e5f90543ad85aaf14c08075
-      internalID: 382962547
+      spriteID: b03798404cceb43f7ad1fef942484289
+      internalID: 465828972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_35
+      name: barbarian_35
       rect:
         serializedVersion: 2
         x: 224
@@ -853,20 +853,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dece5106cab8b6a49b9026042fb0f8ce
-      internalID: 1835504906
+      spriteID: 68acdac7b9d314133a44482c3e94474d
+      internalID: 1864607273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_36
+      name: barbarian_36
       rect:
         serializedVersion: 2
         x: 256
@@ -874,20 +874,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be0805c3ebeb02243b3e3621158a6012
-      internalID: -1096475001
+      spriteID: e67bca4481d1448498f2be94da665195
+      internalID: -643411554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_37
+      name: barbarian_37
       rect:
         serializedVersion: 2
         x: 288
@@ -895,20 +895,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6384e5fb5a28e64ab0a00939a5b9023
-      internalID: -1804793351
+      spriteID: 219dd8b743d7f488ea29dfa1a7c69442
+      internalID: -1645026638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_38
+      name: barbarian_38
       rect:
         serializedVersion: 2
         x: 320
@@ -916,20 +916,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2378341785744564b93ff460c52aa3ba
-      internalID: 1257277601
+      spriteID: 1dc7683fb79be449d9f37d295a7b33fc
+      internalID: -728365518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_39
+      name: barbarian_39
       rect:
         serializedVersion: 2
         x: 352
@@ -937,20 +937,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 226d809f511e39a4a87e6dcfdce0a946
-      internalID: 757528728
+      spriteID: faab00fb927da4108aa79be788dfe296
+      internalID: 987741162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_40
+      name: barbarian_40
       rect:
         serializedVersion: 2
         x: 384
@@ -958,20 +958,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: debca6d73283d7f45a7d5892a499a993
-      internalID: -203997807
+      spriteID: 19cbcedbd276d45258c1ed508efbf262
+      internalID: 458691673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_41
+      name: barbarian_41
       rect:
         serializedVersion: 2
         x: 416
@@ -979,20 +979,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49d36d6f560819849b251180bc9faa47
-      internalID: 803056527
+      spriteID: 6601c791d6c0f4f30b04e943b9e604b9
+      internalID: 138927472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_42
+      name: barbarian_42
       rect:
         serializedVersion: 2
         x: 448
@@ -1000,20 +1000,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ffbae7104f33e64a931663bc030f1c0
-      internalID: 1655652342
+      spriteID: 9dee8b8cd89984245b4f02f74af30756
+      internalID: -303441379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_43
+      name: barbarian_43
       rect:
         serializedVersion: 2
         x: 480
@@ -1021,20 +1021,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e19c3683beff83d41a1cd11ea582316f
-      internalID: 412606674
+      spriteID: 08d8f3c83b5fe45b899dc3c33416eae6
+      internalID: 148247680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_44
+      name: barbarian_44
       rect:
         serializedVersion: 2
         x: 512
@@ -1042,20 +1042,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7c51da58e324214bb444e0c2a6e96c8
-      internalID: -1938617930
+      spriteID: fb8641ea5e16b447ba2169bf63b94cb0
+      internalID: -1569735609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_45
+      name: barbarian_45
       rect:
         serializedVersion: 2
         x: 544
@@ -1063,20 +1063,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f41bc30daf72bb47b53552773570c90
-      internalID: -439634643
+      spriteID: 8f264badbd269428ead718b2d5d1cb70
+      internalID: -1602554264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_46
+      name: barbarian_46
       rect:
         serializedVersion: 2
         x: 576
@@ -1084,20 +1084,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05a18e3ea6692a6438973f785e60f55f
-      internalID: -1763055464
+      spriteID: c8e7655b45abb477f88fe18379228fea
+      internalID: 1785775852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_47
+      name: barbarian_47
       rect:
         serializedVersion: 2
         x: 608
@@ -1105,20 +1105,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39e8f5f749cadb6459abf773bfa5845a
-      internalID: -1664806639
+      spriteID: f62ac7fd4d51b4c89aac39a5de73b005
+      internalID: -1120349993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_48
+      name: barbarian_48
       rect:
         serializedVersion: 2
         x: 640
@@ -1126,20 +1126,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21344533f2f1e9a4ea4fdf09d954e215
-      internalID: 561499006
+      spriteID: fbd911986c4ed4276b9c9749928e0af2
+      internalID: -664340686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_49
+      name: barbarian_49
       rect:
         serializedVersion: 2
         x: 672
@@ -1147,20 +1147,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f7491c9ff86c1c48b20653c0c45c433
-      internalID: -674201502
+      spriteID: c50b17ee3d987437b8d931601c111b9f
+      internalID: 1468790233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_50
+      name: barbarian_50
       rect:
         serializedVersion: 2
         x: 704
@@ -1168,20 +1168,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b57f8b1bfbd9bb4e9b630cf8db7d6e2
-      internalID: -337471838
+      spriteID: b6bb7a5820a0544b48133a3342048a59
+      internalID: 1009760269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_51
+      name: barbarian_51
       rect:
         serializedVersion: 2
         x: 736
@@ -1189,20 +1189,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16dc02f773a872643b73b3108f6cc5e0
-      internalID: -266713899
+      spriteID: ad7057472d5c3419eb5e8851605c5847
+      internalID: 1105724000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_52
+      name: barbarian_52
       rect:
         serializedVersion: 2
         x: 768
@@ -1210,20 +1210,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c57b6dbc5d7316499563b7b28ad6f6a
-      internalID: -1061431842
+      spriteID: f6b2a4886491c45798790a872a70af45
+      internalID: -605049686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_53
+      name: barbarian_53
       rect:
         serializedVersion: 2
         x: 800
@@ -1231,20 +1231,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72b9e19396d0121478f834eddb5e8cd9
-      internalID: -1335065932
+      spriteID: f532935d4e04e4a77a2d7b20399e4822
+      internalID: -571886609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_54
+      name: barbarian_54
       rect:
         serializedVersion: 2
         x: 832
@@ -1252,20 +1252,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bc2b52675c093a47aff8a3c9d8feb24
-      internalID: 1411820588
+      spriteID: 20e76cf8dde5e42c19bcfb93e6cade3c
+      internalID: -1902600212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_55
+      name: barbarian_55
       rect:
         serializedVersion: 2
         x: 864
@@ -1273,20 +1273,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ff6289e0a200224385a8bb6d307205b
-      internalID: -1801777988
+      spriteID: b84ee4db518984535bc42e62853cace9
+      internalID: 2127484899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_56
+      name: barbarian_56
       rect:
         serializedVersion: 2
         x: 0
@@ -1294,20 +1294,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ba1dcf6ab3014232bc87579896ec5ce
-      internalID: 468383293
+      spriteID: 79590c9105a724b85a1684a86a7465d9
+      internalID: -824013324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_57
+      name: barbarian_57
       rect:
         serializedVersion: 2
         x: 32
@@ -1315,20 +1315,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 876e87e3cc1d842d6b4855d690f1f2b5
-      internalID: -588142067
+      spriteID: 5c5870b0f0264432b89118b2b5c2da30
+      internalID: 1682111042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_58
+      name: barbarian_58
       rect:
         serializedVersion: 2
         x: 64
@@ -1336,20 +1336,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f85a2ac471b744e79dce21768114a9b
-      internalID: -1489483809
+      spriteID: 58e09cdf284f648e0bce227d66eb34b7
+      internalID: -218339059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_59
+      name: barbarian_59
       rect:
         serializedVersion: 2
         x: 96
@@ -1357,20 +1357,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ee24f63806754f4b80834efa41acc0d
-      internalID: 377097558
+      spriteID: eeab8d14fa865426abf7251127f2c9e8
+      internalID: -893906399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_60
+      name: barbarian_60
       rect:
         serializedVersion: 2
         x: 128
@@ -1378,20 +1378,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 152213b3595cd4576af68c92e26a7ae8
-      internalID: -837625625
+      spriteID: aabfb8ef20d0e4615b21a7272378129f
+      internalID: -121946333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_61
+      name: barbarian_61
       rect:
         serializedVersion: 2
         x: 160
@@ -1399,20 +1399,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77d92eb47dbb64b678f508ded8437952
-      internalID: -1926178714
+      spriteID: 1e00a5eef672f49d98bce8fd1ea53861
+      internalID: -1316331882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_62
+      name: barbarian_62
       rect:
         serializedVersion: 2
         x: 192
@@ -1420,20 +1420,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfecbd8d0399a4ef8bfb2a8f54592f2e
-      internalID: -976773163
+      spriteID: 52554199e47634e15b934816de93a630
+      internalID: 537392307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_63
+      name: barbarian_63
       rect:
         serializedVersion: 2
         x: 224
@@ -1441,20 +1441,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acf391b9ca8e54df1aa17eec021f9405
-      internalID: 1112110377
+      spriteID: 25e97b1442b394c81ae5e9d076492ca7
+      internalID: -1293496116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_64
+      name: barbarian_64
       rect:
         serializedVersion: 2
         x: 256
@@ -1462,20 +1462,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9d187de8dd9546f39e0d468b982899e
-      internalID: -1995111656
+      spriteID: c0d69d974e49b4bae943249ec221bb2e
+      internalID: -256895262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_65
+      name: barbarian_65
       rect:
         serializedVersion: 2
         x: 288
@@ -1483,20 +1483,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67ad0487f155b403f920538c923f857e
-      internalID: -1363785121
+      spriteID: ed9f3acb80c7a4827a01e24905fa5b45
+      internalID: 1323868621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_66
+      name: barbarian_66
       rect:
         serializedVersion: 2
         x: 320
@@ -1504,20 +1504,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90c6fa695ee76483dae17f8c7bceab73
-      internalID: 1830580728
+      spriteID: ec8f3bab14efb42138a4421f8935a04e
+      internalID: 2024342960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_67
+      name: barbarian_67
       rect:
         serializedVersion: 2
         x: 352
@@ -1525,20 +1525,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f19e50c3c6e4a45d5b714962fd48829e
-      internalID: -397280026
+      spriteID: 85b6fee51c3ab4e00bf4cd17db2e2b15
+      internalID: 512568940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_68
+      name: barbarian_68
       rect:
         serializedVersion: 2
         x: 384
@@ -1546,20 +1546,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6aa89b83607f459e9f4f82e78a33b4a
-      internalID: 995917246
+      spriteID: b193e2d3eb02f49fdbc9ae923436a929
+      internalID: -1203236397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_69
+      name: barbarian_69
       rect:
         serializedVersion: 2
         x: 416
@@ -1567,20 +1567,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0c27ecde107642d8a34ca9884433610
-      internalID: 1442841494
+      spriteID: e6565d82dd74f4f6583799d10872477d
+      internalID: -1695815742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_70
+      name: barbarian_70
       rect:
         serializedVersion: 2
         x: 448
@@ -1588,20 +1588,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 718c6be0dd31e4f12a24c7624cd3b729
-      internalID: 1064608023
+      spriteID: 371c67cdf4acb4a6b907a5569f92c9e0
+      internalID: 1606796094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_71
+      name: barbarian_71
       rect:
         serializedVersion: 2
         x: 480
@@ -1609,20 +1609,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fe72d5d9dfda4bd4be0e9f883a2fe36
-      internalID: -1194998844
+      spriteID: b242070aef4644eeb8c436eda04f055a
+      internalID: -1801992940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_72
+      name: barbarian_72
       rect:
         serializedVersion: 2
         x: 512
@@ -1630,20 +1630,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9416bef23d494d27b813d3b02cee52c
-      internalID: 1574180165
+      spriteID: 1f88adddb49a14b588610b2008baa35a
+      internalID: -139189250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_73
+      name: barbarian_73
       rect:
         serializedVersion: 2
         x: 544
@@ -1651,20 +1651,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2253ed72e51a34dd28773aaaafed5c99
-      internalID: -1300708937
+      spriteID: 845d3ff1e24424337a2ba956a0032a5e
+      internalID: 1163964383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_74
+      name: barbarian_74
       rect:
         serializedVersion: 2
         x: 576
@@ -1672,20 +1672,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e8a8b7b307894101954d41b74f29270
-      internalID: -761786293
+      spriteID: ad048fa8b5f37493288ef7f81df86e4e
+      internalID: 428001818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_75
+      name: barbarian_75
       rect:
         serializedVersion: 2
         x: 608
@@ -1693,20 +1693,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29dfb735738bc4b24bb6cb7f5309f4d5
-      internalID: -2144531469
+      spriteID: c0b3e24b4491440c484bc2801f972e2d
+      internalID: -469949507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_76
+      name: barbarian_76
       rect:
         serializedVersion: 2
         x: 640
@@ -1714,20 +1714,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab97282177f67475aba9312e21a61658
-      internalID: 1246298823
+      spriteID: 3c8aebe1f461a42ba80d9534f67c44b8
+      internalID: -1339279115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_77
+      name: barbarian_77
       rect:
         serializedVersion: 2
         x: 672
@@ -1735,20 +1735,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1106211fb4d6a4b8b903179d0e2189b1
-      internalID: -189807883
+      spriteID: 45c7e0670d52c4289b018203034bd604
+      internalID: 765028009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_78
+      name: barbarian_78
       rect:
         serializedVersion: 2
         x: 704
@@ -1756,20 +1756,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77c0addcc57ef45a3a2c01a464b70824
-      internalID: -1681506846
+      spriteID: d6f9830726c774623a5a130cf13a4225
+      internalID: 800134851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_79
+      name: barbarian_79
       rect:
         serializedVersion: 2
         x: 736
@@ -1777,20 +1777,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f14a1102123e449d9bbf33fd99fbbcd
-      internalID: -106290767
+      spriteID: 1f915083dc9a24b2098d157bcfe58b56
+      internalID: -1985862820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_80
+      name: barbarian_80
       rect:
         serializedVersion: 2
         x: 768
@@ -1798,20 +1798,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40737e53d10d941b38d9c019903b7607
-      internalID: -442015388
+      spriteID: 533f2c7ee020141caa4a9885d8e3b8c3
+      internalID: -136285112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_81
+      name: barbarian_81
       rect:
         serializedVersion: 2
         x: 800
@@ -1819,20 +1819,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8db646a643ab94e97a2a3169f512f2b0
-      internalID: -1971670522
+      spriteID: f4a7f702620854bc48e30b1a93b9f14d
+      internalID: 1925826200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_82
+      name: barbarian_82
       rect:
         serializedVersion: 2
         x: 832
@@ -1840,20 +1840,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86f506cf70643453eb9340eb9540faa1
-      internalID: 1190497597
+      spriteID: 22b63b9aec8c84cb0a5bfad796e3785c
+      internalID: 1503701533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_83
+      name: barbarian_83
       rect:
         serializedVersion: 2
         x: 864
@@ -1861,20 +1861,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3540c24a7d07644499e53bc215a94893
-      internalID: -350109652
+      spriteID: 0c287dc29329e490dab78400006cec02
+      internalID: 1163337960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_84
+      name: barbarian_84
       rect:
         serializedVersion: 2
         x: 0
@@ -1882,20 +1882,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 152a4c3abb677467c9de7ba6d208feca
-      internalID: -466310753
+      spriteID: 9cae4f0ae663e4b20b607c52594b8702
+      internalID: -1978856330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_85
+      name: barbarian_85
       rect:
         serializedVersion: 2
         x: 32
@@ -1903,20 +1903,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c30b8da257ea4764a9d170db952d072
-      internalID: 1944238639
+      spriteID: c3d349b96435b445090308767f555a10
+      internalID: -703704099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_86
+      name: barbarian_86
       rect:
         serializedVersion: 2
         x: 64
@@ -1924,20 +1924,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b22d84442a2e42be846d08fc5b95d89
-      internalID: -1562097901
+      spriteID: 354f344f668614a0caec6842d09769f9
+      internalID: 1129091440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_87
+      name: barbarian_87
       rect:
         serializedVersion: 2
         x: 96
@@ -1945,20 +1945,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f42793c85f6843ed972e772f2d560f7
-      internalID: -2054553751
+      spriteID: da1de1c3324ae44468fe1fcb47632879
+      internalID: 1091022304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_88
+      name: barbarian_88
       rect:
         serializedVersion: 2
         x: 128
@@ -1966,20 +1966,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7153de9068d3f46f6ab8dac466316695
-      internalID: -2107722834
+      spriteID: 0672b10ba33c34dab870c38b5d186372
+      internalID: 1643479952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_89
+      name: barbarian_89
       rect:
         serializedVersion: 2
         x: 160
@@ -1987,20 +1987,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f61eb875af04e4dd7984e873f4530bb4
-      internalID: -1631685037
+      spriteID: 24c4050a2a4cb4f6b9254652c89045fc
+      internalID: 119896363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_90
+      name: barbarian_90
       rect:
         serializedVersion: 2
         x: 192
@@ -2008,20 +2008,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef0f21b55343045aba70ca97e416f207
-      internalID: 2114746632
+      spriteID: eea903ab9f9ab44b284b56b07f046108
+      internalID: -824716326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_91
+      name: barbarian_91
       rect:
         serializedVersion: 2
         x: 224
@@ -2029,20 +2029,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67d771c4e49484d46a3be609c802a614
-      internalID: -525101592
+      spriteID: e8548cc075ae94fd2a78221075fe0c11
+      internalID: -1939832748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_92
+      name: barbarian_92
       rect:
         serializedVersion: 2
         x: 256
@@ -2050,20 +2050,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 221473d72ae244e7fba0ccceee3a6218
-      internalID: 1467967938
+      spriteID: 882869be720e9488fb5eb0dd7af60023
+      internalID: -356903893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_93
+      name: barbarian_93
       rect:
         serializedVersion: 2
         x: 288
@@ -2071,20 +2071,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 922307dddfcd64e67b7c1c6136094b27
-      internalID: 280003946
+      spriteID: 8ceffcfabd17b453191b994c09dda642
+      internalID: -2042756834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_94
+      name: barbarian_94
       rect:
         serializedVersion: 2
         x: 320
@@ -2092,20 +2092,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26da265546804444b9a6587091ca4c3a
-      internalID: 384486451
+      spriteID: 70ad5f8146445409ca875fae9d0e3a1f
+      internalID: 1202327114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_95
+      name: barbarian_95
       rect:
         serializedVersion: 2
         x: 352
@@ -2113,20 +2113,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5611f1538b0224789a044308ec5d1550
-      internalID: -668787174
+      spriteID: 799dadad1e9474b02877b260b1c2eebe
+      internalID: 1746015707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_96
+      name: barbarian_96
       rect:
         serializedVersion: 2
         x: 384
@@ -2134,20 +2134,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb16c4837b7734de7aa6ecfb3d9e9fe4
-      internalID: 1289052631
+      spriteID: 0f431f897b15f43dbbf0dd3f07b56a3d
+      internalID: -57406704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_97
+      name: barbarian_97
       rect:
         serializedVersion: 2
         x: 416
@@ -2155,20 +2155,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 094dbf16982544bbb8e278200d842e92
-      internalID: -171474989
+      spriteID: 87e2c07d0ea1243908c35abc2c732c3d
+      internalID: -1380942598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_98
+      name: barbarian_98
       rect:
         serializedVersion: 2
         x: 448
@@ -2176,20 +2176,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73ede54a6a67e4e5087b94146b46ef6d
-      internalID: 958858956
+      spriteID: 435fbda3f5e41462c81623388fef9bb6
+      internalID: -1073294225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_99
+      name: barbarian_99
       rect:
         serializedVersion: 2
         x: 480
@@ -2197,20 +2197,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac6c84805eb0a48de9bf1df53e7d3efb
-      internalID: 977575134
+      spriteID: 8f51d0ca228b34eae98833bc396de718
+      internalID: 1722568815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_100
+      name: barbarian_100
       rect:
         serializedVersion: 2
         x: 512
@@ -2218,20 +2218,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a44c2500aa9614cd0abb5d9eb722bfcd
-      internalID: 1479153718
+      spriteID: 8ad1035d2b6cf43ce80436ec02b88991
+      internalID: 1451422572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_101
+      name: barbarian_101
       rect:
         serializedVersion: 2
         x: 544
@@ -2239,20 +2239,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b18bf781871e450da632e8958c4004e
-      internalID: 1729954354
+      spriteID: a85c683d5adab466c9a46b951c587abb
+      internalID: 1938555002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_102
+      name: barbarian_102
       rect:
         serializedVersion: 2
         x: 576
@@ -2260,20 +2260,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddfe62331b2144cc6b9d0a32858c50df
-      internalID: -1272488208
+      spriteID: 6068050e600b24632bf365f75762e0cb
+      internalID: 867016487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_103
+      name: barbarian_103
       rect:
         serializedVersion: 2
         x: 608
@@ -2281,20 +2281,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 263c3f08e1aaf404b8a527697cd30c8e
-      internalID: -1881530823
+      spriteID: 6d237621acc63493893c0a5738e4df3e
+      internalID: -1157643665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_104
+      name: barbarian_104
       rect:
         serializedVersion: 2
         x: 640
@@ -2302,20 +2302,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19c04d4ba4eee4d3d9cf569d512aaed4
-      internalID: -69432843
+      spriteID: 67c52aa3f60874704bc4cbb7a166b6d6
+      internalID: 1591518927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_105
+      name: barbarian_105
       rect:
         serializedVersion: 2
         x: 672
@@ -2323,20 +2323,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0624013dd4044f008c5027864389b38
-      internalID: -1811439354
+      spriteID: 77b5d3af5212f4b2a90df9cfed0d2d08
+      internalID: 507200514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_106
+      name: barbarian_106
       rect:
         serializedVersion: 2
         x: 704
@@ -2344,20 +2344,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8fd7a9eea1614834a48a94aeba3bb20
-      internalID: -263753474
+      spriteID: bd93c778c211d4cac9af7683ab82f35d
+      internalID: -1040873035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_107
+      name: barbarian_107
       rect:
         serializedVersion: 2
         x: 736
@@ -2365,20 +2365,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bea8a45f6e9d34df199a48be11906c19
-      internalID: -36502349
+      spriteID: 6f0b471ad3c3e4e178edfdb176f155c5
+      internalID: 1108523399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_108
+      name: barbarian_108
       rect:
         serializedVersion: 2
         x: 768
@@ -2386,20 +2386,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 584c2b80b4ea84c79a4ab26b50a63702
-      internalID: -1109534418
+      spriteID: 828e1856abefe4cf09f1943cdd7a724b
+      internalID: -26467825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_109
+      name: barbarian_109
       rect:
         serializedVersion: 2
         x: 800
@@ -2407,20 +2407,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddf75fd4139134ebd8cbdcc4f1088614
-      internalID: 343314470
+      spriteID: 96c67c4d8fa604628a3abc5935ab3318
+      internalID: -938139074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_110
+      name: barbarian_110
       rect:
         serializedVersion: 2
         x: 832
@@ -2428,20 +2428,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65e025d5af4fb46b5aee2ff94ab6ed23
-      internalID: 1297203535
+      spriteID: 90c687109741b4c9c9cf22ccfda7aba3
+      internalID: -1493506465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_111
+      name: barbarian_111
       rect:
         serializedVersion: 2
         x: 864
@@ -2449,20 +2449,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffc175916462c49f5bb9dc139a1abd78
-      internalID: 1668416840
+      spriteID: 0a1d6027e87e94b889c49974914996b8
+      internalID: -2117549073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_112
+      name: barbarian_112
       rect:
         serializedVersion: 2
         x: 0
@@ -2470,20 +2470,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a3b3b32ab46c4eddb62b030e716fe4b
-      internalID: -1930495763
+      spriteID: 3439aa181c103428eb32c63b1ce9b335
+      internalID: -2111976239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_113
+      name: barbarian_113
       rect:
         serializedVersion: 2
         x: 32
@@ -2491,20 +2491,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bd91d9405d004687a8f233eccdd6f3a
-      internalID: -415375091
+      spriteID: f932e7472aa694db7bb73482f913599d
+      internalID: 2051730013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_114
+      name: barbarian_114
       rect:
         serializedVersion: 2
         x: 64
@@ -2512,20 +2512,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5885a57b36c54408ea12bd82dc80eb53
-      internalID: 770966859
+      spriteID: e9a8a27976e304262b1ad1ce85cac764
+      internalID: -227960949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_115
+      name: barbarian_115
       rect:
         serializedVersion: 2
         x: 96
@@ -2533,20 +2533,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b5ba88a0a480453f8a41362fbcb88b3
-      internalID: -251436039
+      spriteID: 75f14e6f48c2b4aed8945b2ca33c8ccf
+      internalID: 2000540396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_116
+      name: barbarian_116
       rect:
         serializedVersion: 2
         x: 128
@@ -2554,20 +2554,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1696a8e70c93e453fa6aec0689a7efd4
-      internalID: -846614458
+      spriteID: 5b35fc63edddf485a9fe8897b418f5c4
+      internalID: 974930606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_117
+      name: barbarian_117
       rect:
         serializedVersion: 2
         x: 160
@@ -2575,20 +2575,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cadf852bee6f4b73851b7c690cae4c4
-      internalID: 399944882
+      spriteID: e5473e7f5303d4e50bc83fde2834763e
+      internalID: -332999879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_118
+      name: barbarian_118
       rect:
         serializedVersion: 2
         x: 192
@@ -2596,20 +2596,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e8437b07ae91497a8d5465adde7a27f
-      internalID: 175548429
+      spriteID: 1305058bacee949b5a292609bda7ba00
+      internalID: -1328181299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_119
+      name: barbarian_119
       rect:
         serializedVersion: 2
         x: 224
@@ -2617,20 +2617,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f940700d1a03547e88d4440e294a08c8
-      internalID: -1713955388
+      spriteID: dad528f3e6b584ae291df82cf5b60c46
+      internalID: -858748150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_120
+      name: barbarian_120
       rect:
         serializedVersion: 2
         x: 256
@@ -2638,20 +2638,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96cebdeb2df244d349f4290bebc189a8
-      internalID: -292460251
+      spriteID: e508cde0d45574d7bbf18f39314da3b1
+      internalID: -1631960905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_121
+      name: barbarian_121
       rect:
         serializedVersion: 2
         x: 288
@@ -2659,20 +2659,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 273dd251ab6ab446480c3e5636831e84
-      internalID: 1408981167
+      spriteID: bdfc540e8d660477ca8e184496adc274
+      internalID: -1909980254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_122
+      name: barbarian_122
       rect:
         serializedVersion: 2
         x: 320
@@ -2680,20 +2680,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecdbb2fb27d0849efb0d3404a5543266
-      internalID: 1369843975
+      spriteID: 0cd7d5236c40b45b8bd12a92b3528445
+      internalID: -163964347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_123
+      name: barbarian_123
       rect:
         serializedVersion: 2
         x: 352
@@ -2701,20 +2701,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28c07bfe0766940b5a336b916fc575ab
-      internalID: -565574414
+      spriteID: 2994a648e82ea41b09372d2a2b3eb556
+      internalID: -1215573882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_124
+      name: barbarian_124
       rect:
         serializedVersion: 2
         x: 384
@@ -2722,20 +2722,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5f3f00b6d80243659a2f851151107c2
-      internalID: 1345512106
+      spriteID: f23abc99f961a413ba3431106a665b76
+      internalID: -1453911395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_125
+      name: barbarian_125
       rect:
         serializedVersion: 2
         x: 416
@@ -2743,20 +2743,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 671168d3dfeb74cd5919cbcf943e0c6d
-      internalID: -318463694
+      spriteID: dbf6d725a96a34606990d424dcc2b5ce
+      internalID: 1807808176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_126
+      name: barbarian_126
       rect:
         serializedVersion: 2
         x: 448
@@ -2764,20 +2764,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 296d9d79aa758405da6c843eb0225025
-      internalID: 813644887
+      spriteID: 1c37713f81a464e3e935453e39b5818e
+      internalID: 661342480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_127
+      name: barbarian_127
       rect:
         serializedVersion: 2
         x: 480
@@ -2785,20 +2785,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b052ab8577ef40688803c32d99e288d
-      internalID: 380268665
+      spriteID: 0608585a521ee46fe9fc205de9aa0de5
+      internalID: -88861811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_128
+      name: barbarian_128
       rect:
         serializedVersion: 2
         x: 512
@@ -2806,20 +2806,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd9fd6621fd2d4cb19200a0cee42da86
-      internalID: 896233606
+      spriteID: 697b30884464f4f0c93a0d5b8fb3b3ef
+      internalID: -1582692402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_129
+      name: barbarian_129
       rect:
         serializedVersion: 2
         x: 544
@@ -2827,20 +2827,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fe0d94c30f0c43e68ef312f9c64a45c
-      internalID: 348551520
+      spriteID: ba65a327421994bbc8b07cf751b31655
+      internalID: -309902286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_130
+      name: barbarian_130
       rect:
         serializedVersion: 2
         x: 576
@@ -2848,20 +2848,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa9596f8b5a3d47b0ae471f1879bedb4
-      internalID: -1714195160
+      spriteID: ec50da087929144df83c5835c74ab0be
+      internalID: 835779718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_131
+      name: barbarian_131
       rect:
         serializedVersion: 2
         x: 608
@@ -2869,20 +2869,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb9602b04d38f4e359a96867bdab4d61
-      internalID: 15084218
+      spriteID: ec9cafb03afba4e73b990aa0bfa029ad
+      internalID: 1000363137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_132
+      name: barbarian_132
       rect:
         serializedVersion: 2
         x: 640
@@ -2890,20 +2890,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2c89824c05c5447ab60fc4e836ddc37
-      internalID: 370740317
+      spriteID: 8149b158e36674dfa9a408890e7cc0d1
+      internalID: -1355214556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_133
+      name: barbarian_133
       rect:
         serializedVersion: 2
         x: 672
@@ -2911,20 +2911,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a43feb1ed56745fea6186413848904a
-      internalID: 1467081646
+      spriteID: 64cd6c1bd0519414991d7848582d45f9
+      internalID: 812111139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_134
+      name: barbarian_134
       rect:
         serializedVersion: 2
         x: 704
@@ -2932,20 +2932,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9782b029d1b234a47965ad9b4da6c735
-      internalID: 1996017026
+      spriteID: 192cc49b2458f479e80a8e3923cd1a6a
+      internalID: 199753163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_135
+      name: barbarian_135
       rect:
         serializedVersion: 2
         x: 736
@@ -2953,20 +2953,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aacf29fb59a7a43ed9917705edffebd9
-      internalID: -1776589626
+      spriteID: cc25f0cfb5e6b42299d9a080ccdcbd1d
+      internalID: -410860394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_136
+      name: barbarian_136
       rect:
         serializedVersion: 2
         x: 768
@@ -2974,20 +2974,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e743901a992d45fa9a32355bd2c81ca
-      internalID: 304181483
+      spriteID: 3aa3cc9aabc404bc0a27bf40b1fb996e
+      internalID: -386494530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_137
+      name: barbarian_137
       rect:
         serializedVersion: 2
         x: 800
@@ -2995,20 +2995,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1cd7161f4a964365b909e120857b651
-      internalID: -1069977485
+      spriteID: 72d7a675e681a4119b76b7c2cbaa3e91
+      internalID: -1165541708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_138
+      name: barbarian_138
       rect:
         serializedVersion: 2
         x: 832
@@ -3016,20 +3016,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1d4402cb879e4c1e8e4c4221018981a
-      internalID: -40102468
+      spriteID: 256e67751d2ab4e929bfeb72837b5c19
+      internalID: 719197297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_139
+      name: barbarian_139
       rect:
         serializedVersion: 2
         x: 864
@@ -3037,20 +3037,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80d862c37cbb2432b88b73be896ce874
-      internalID: -598050565
+      spriteID: a7d4394aef82b45e880543bef8e98e6d
+      internalID: -290841525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_140
+      name: barbarian_140
       rect:
         serializedVersion: 2
         x: 0
@@ -3058,20 +3058,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50d18437f6be34fa7afac18e7e154911
-      internalID: 263860094
+      spriteID: 1544d49da3b9b4dadb97793ba1f2b8c1
+      internalID: 999115412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_141
+      name: barbarian_141
       rect:
         serializedVersion: 2
         x: 32
@@ -3079,20 +3079,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1085c65881ce143bc9b732f7f7aa2b2c
-      internalID: -557945712
+      spriteID: 2ced6dd99013340c8b3fd25f52e93f58
+      internalID: 616827110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_142
+      name: barbarian_142
       rect:
         serializedVersion: 2
         x: 64
@@ -3100,20 +3100,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2581aad99df0e4da2b3c699ce362f09a
-      internalID: 531748515
+      spriteID: f972744506f8d4f86819610a9c720aff
+      internalID: 274966356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_143
+      name: barbarian_143
       rect:
         serializedVersion: 2
         x: 96
@@ -3121,20 +3121,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a988927b5093465db14e189ab3d0605
-      internalID: -561842047
+      spriteID: 291f0a089fe2d453bb630d031f7fa692
+      internalID: -1324014547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_144
+      name: barbarian_144
       rect:
         serializedVersion: 2
         x: 128
@@ -3142,20 +3142,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d7bd68b56e3a4bb5aa7606fdccd9cea
-      internalID: -1901679222
+      spriteID: 181782242b4024a96aab2770efc1dea3
+      internalID: 1070282479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_145
+      name: barbarian_145
       rect:
         serializedVersion: 2
         x: 160
@@ -3163,20 +3163,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1429e18a1ebf447dea75690f168188fd
-      internalID: 102433801
+      spriteID: fac119505831c463ab1eb6e79a2d0d10
+      internalID: 307190445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_146
+      name: barbarian_146
       rect:
         serializedVersion: 2
         x: 192
@@ -3184,20 +3184,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e08b9976d26e42279da8293f1368fbe
-      internalID: -1887894770
+      spriteID: c9d5c4a1943c5498db1a730ba8d13008
+      internalID: 2021548582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_147
+      name: barbarian_147
       rect:
         serializedVersion: 2
         x: 224
@@ -3205,20 +3205,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97b0cadc4de31409f91cc1bea94dfd9f
-      internalID: -1679072299
+      spriteID: 02ba2f415a84b4fed9af805f0e4d2690
+      internalID: 276867916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_148
+      name: barbarian_148
       rect:
         serializedVersion: 2
         x: 256
@@ -3226,20 +3226,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f911db21b85345728bb6a2eb2a3ed16
-      internalID: 2027798956
+      spriteID: 5da71115f8945468bbee2025fa124d1e
+      internalID: -313236746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_149
+      name: barbarian_149
       rect:
         serializedVersion: 2
         x: 288
@@ -3247,20 +3247,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33fb89224e02f4cf2bf0c07fd36470fc
-      internalID: -681018190
+      spriteID: d172f9de5282c417fbde90518da6407f
+      internalID: -1262764497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_150
+      name: barbarian_150
       rect:
         serializedVersion: 2
         x: 320
@@ -3268,20 +3268,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a86020228984b4cbeb5444e7cc743438
-      internalID: -364355491
+      spriteID: bebccb3a36aa94a0c98c79cafc6c2d69
+      internalID: 347913679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_151
+      name: barbarian_151
       rect:
         serializedVersion: 2
         x: 352
@@ -3289,20 +3289,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8188ab3810e454b06ad56345933acb2b
-      internalID: 1540911924
+      spriteID: d289fb6b7caa741649a8165f575d0552
+      internalID: 470803407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_152
+      name: barbarian_152
       rect:
         serializedVersion: 2
         x: 384
@@ -3310,20 +3310,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13300de84ed3b4be4af8f57a9bbec847
-      internalID: -1187102514
+      spriteID: aa8f7d48fc5a744ba843d2f52bf9256c
+      internalID: -248073835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_153
+      name: barbarian_153
       rect:
         serializedVersion: 2
         x: 416
@@ -3331,20 +3331,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13dc60ce95d5e42ef8dff3cbc50b9063
-      internalID: 1615126484
+      spriteID: 9593231b419094a08a9ec5b8dfae2fc0
+      internalID: 46481932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_154
+      name: barbarian_154
       rect:
         serializedVersion: 2
         x: 448
@@ -3352,20 +3352,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d431453c24174f4184f7bccf11c959a
-      internalID: -809740986
+      spriteID: b17e204e27d894bc5ad1570a4629ac07
+      internalID: -974574696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_155
+      name: barbarian_155
       rect:
         serializedVersion: 2
         x: 480
@@ -3373,20 +3373,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb60f145f5c6e483c8280ebe116ee4ea
-      internalID: 2071651182
+      spriteID: d4c9fbe1c6ba442958b13f737955190e
+      internalID: -1208985373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_156
+      name: barbarian_156
       rect:
         serializedVersion: 2
         x: 512
@@ -3394,20 +3394,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5a720c4cf8904f79a5b7480ca868698
-      internalID: -1641143266
+      spriteID: 918f4a008f9924da29a363a0712c0949
+      internalID: 869063192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_157
+      name: barbarian_157
       rect:
         serializedVersion: 2
         x: 544
@@ -3415,20 +3415,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39fbdab0796214fcca40ce9ac828834b
-      internalID: -179292200
+      spriteID: 4625479f23c1846f6b654f4d5edfaa4b
+      internalID: -388882275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_158
+      name: barbarian_158
       rect:
         serializedVersion: 2
         x: 576
@@ -3436,20 +3436,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29a678108c8e24024b7d0fe2c26c5949
-      internalID: -917395151
+      spriteID: ff201cf30d5944fa0992e56ac777cc40
+      internalID: 231338135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_159
+      name: barbarian_159
       rect:
         serializedVersion: 2
         x: 608
@@ -3457,20 +3457,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89556fd61974a44958f4f1a1d89d8395
-      internalID: 1061097362
+      spriteID: b3e99252f58424d09bd4566059b9822f
+      internalID: -1780928944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_160
+      name: barbarian_160
       rect:
         serializedVersion: 2
         x: 640
@@ -3478,20 +3478,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 686b588f9dad344039837f546d20570d
-      internalID: 1633069463
+      spriteID: 76f71720732854489a9003d564f26b90
+      internalID: 1704663031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_161
+      name: barbarian_161
       rect:
         serializedVersion: 2
         x: 672
@@ -3499,20 +3499,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f72d1234e4b0422aaae865f5a0dfb37
-      internalID: -616628633
+      spriteID: b41fa78a482c241ac8678b117442f6c3
+      internalID: -1671756128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_162
+      name: barbarian_162
       rect:
         serializedVersion: 2
         x: 704
@@ -3520,20 +3520,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c1284cec49b44254a894929fe3c8467
-      internalID: -1442812489
+      spriteID: ed72ab7d7ece148f893fc62b926e2094
+      internalID: 412435224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_163
+      name: barbarian_163
       rect:
         serializedVersion: 2
         x: 736
@@ -3541,20 +3541,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 120c600c37d20426099162df47b13c0c
-      internalID: 1585581745
+      spriteID: 76bfecb7cef93419d9e9fca2e26773ee
+      internalID: 423619024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_164
+      name: barbarian_164
       rect:
         serializedVersion: 2
         x: 768
@@ -3562,20 +3562,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0e8254bbc4624646a92451dc4aacfb4
-      internalID: 563166368
+      spriteID: 08be928c4a48243689a31a80eb732d5e
+      internalID: 1784781922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_165
+      name: barbarian_165
       rect:
         serializedVersion: 2
         x: 800
@@ -3583,20 +3583,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18a3ec199da3d4e26ae8372521f065ac
-      internalID: -2079087262
+      spriteID: b8eb7083384e1429487041534e798755
+      internalID: -1270570276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_166
+      name: barbarian_166
       rect:
         serializedVersion: 2
         x: 832
@@ -3604,20 +3604,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bf8e79e3d43d48d18b219063327dd05
-      internalID: 1992395282
+      spriteID: 1fa03249d1b774db3b34cad8073a9e5c
+      internalID: 1799122311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_167
+      name: barbarian_167
       rect:
         serializedVersion: 2
         x: 864
@@ -3625,20 +3625,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d57a20d71e1147f0b84b84e8b5c5fef
-      internalID: 115186511
+      spriteID: 475016899a55b429eb93da20aed2df26
+      internalID: -744100991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_168
+      name: barbarian_168
       rect:
         serializedVersion: 2
         x: 0
@@ -3646,20 +3646,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0e578edd8b9349e59c66376a0c23576
-      internalID: 1479915589
+      spriteID: b3864b7e9ee154c2e91b31612e2ab2af
+      internalID: 1659523810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_169
+      name: barbarian_169
       rect:
         serializedVersion: 2
         x: 32
@@ -3667,20 +3667,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c328cbfde634d4784919238c06aa7f0f
-      internalID: 1410244943
+      spriteID: 173f198418c9b4074a0e8f3f93a5efd1
+      internalID: -1828252367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_170
+      name: barbarian_170
       rect:
         serializedVersion: 2
         x: 64
@@ -3688,20 +3688,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe8770e86ad3f4c32b93b8c215590c74
-      internalID: -1175536918
+      spriteID: b498ccd982dd9403dbe40929d2b15463
+      internalID: 1258760547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_171
+      name: barbarian_171
       rect:
         serializedVersion: 2
         x: 96
@@ -3709,20 +3709,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c522288a5a5174cf0b89181a14d44e48
-      internalID: -1678316281
+      spriteID: e245936e6d9454f84a23649b21b62d8c
+      internalID: -1797403962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_172
+      name: barbarian_172
       rect:
         serializedVersion: 2
         x: 128
@@ -3730,20 +3730,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa5285bf2876f41228f7e2944cc73237
-      internalID: -1445696569
+      spriteID: 2e4601c92989846afb241dc5ed2f2d2c
+      internalID: 1312568661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_173
+      name: barbarian_173
       rect:
         serializedVersion: 2
         x: 160
@@ -3751,20 +3751,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26e779d95335e4b6e92f4fd59759b7d9
-      internalID: 922756523
+      spriteID: b93b833dba2f849faac916369729d384
+      internalID: -913876977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_174
+      name: barbarian_174
       rect:
         serializedVersion: 2
         x: 192
@@ -3772,20 +3772,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c3e83c97d96d4a85a75fff401552869
-      internalID: 871382517
+      spriteID: 661bffb2c97ae492d8ac44d52bb89f1e
+      internalID: -1191921431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_175
+      name: barbarian_175
       rect:
         serializedVersion: 2
         x: 224
@@ -3793,20 +3793,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c75e41c193214b8f8ff1285ff30d40d
-      internalID: -383387657
+      spriteID: 9b46beb9f9b484def8db92164fa0f444
+      internalID: 2132013805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_176
+      name: barbarian_176
       rect:
         serializedVersion: 2
         x: 256
@@ -3814,20 +3814,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d2d0f157f0e44598aaa63e6c2a491ac
-      internalID: 1489823455
+      spriteID: 9222ed5bda0a94970a259aea543403f0
+      internalID: -1505301411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_177
+      name: barbarian_177
       rect:
         serializedVersion: 2
         x: 288
@@ -3835,20 +3835,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6293762c46c34d75af05647b12af02b
-      internalID: 1879804164
+      spriteID: 791856a7a5c5f4404922502d46238469
+      internalID: -426123151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_178
+      name: barbarian_178
       rect:
         serializedVersion: 2
         x: 320
@@ -3856,20 +3856,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e3833890ea934e79be31e42f830ac03
-      internalID: 2037776208
+      spriteID: a68febed2374b46f89d6f3c907089162
+      internalID: -190599016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_179
+      name: barbarian_179
       rect:
         serializedVersion: 2
         x: 352
@@ -3877,20 +3877,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: accd022cde36c4b9989e96d2891e364e
-      internalID: 927168134
+      spriteID: 9ad1e6b9ba83a443b9d980bf421b7ad8
+      internalID: -2123449411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_180
+      name: barbarian_180
       rect:
         serializedVersion: 2
         x: 384
@@ -3898,20 +3898,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95480cd2de6954bd2a2d412d08576f8b
-      internalID: -944793823
+      spriteID: c6ca3dcf85cab493689782253c77ef01
+      internalID: 537924073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_181
+      name: barbarian_181
       rect:
         serializedVersion: 2
         x: 416
@@ -3919,20 +3919,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84b730db8ddf74103a4d200029274c21
-      internalID: -1677456827
+      spriteID: a245c836a4b044213945aecd4801e1f6
+      internalID: -1474401765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_182
+      name: barbarian_182
       rect:
         serializedVersion: 2
         x: 448
@@ -3940,20 +3940,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc05b81b8a3a549a497e4661d33ad620
-      internalID: 593563016
+      spriteID: 094708a6af8a64e7ba55a0843abee048
+      internalID: 102776662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_183
+      name: barbarian_183
       rect:
         serializedVersion: 2
         x: 480
@@ -3961,20 +3961,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9f98f89a539a4551a9a0d107f29717e
-      internalID: 1693816779
+      spriteID: 94fbad6cda6a64a54b8ab83017249442
+      internalID: 1155668461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_184
+      name: barbarian_184
       rect:
         serializedVersion: 2
         x: 512
@@ -3982,20 +3982,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cb10e45e11cc49fba75d17c1bf37ec5
-      internalID: 961079627
+      spriteID: ab1e5eb76bd8e4bc6be6f861cc7994c1
+      internalID: -1825364842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_185
+      name: barbarian_185
       rect:
         serializedVersion: 2
         x: 544
@@ -4003,20 +4003,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cfbf67d8d710431fa8bec7502c73ecd
-      internalID: -793460970
+      spriteID: f17767f41b79d4e24b36273495804eeb
+      internalID: 2128947311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_186
+      name: barbarian_186
       rect:
         serializedVersion: 2
         x: 576
@@ -4024,20 +4024,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd0b9779a3e44b599745d3319c3aacf
-      internalID: -519345458
+      spriteID: 019d64e05bd5242338daf4c0b417ec66
+      internalID: 1370783985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_187
+      name: barbarian_187
       rect:
         serializedVersion: 2
         x: 608
@@ -4045,20 +4045,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64fa51857a4dc4fb880bc937e42153c2
-      internalID: 269666265
+      spriteID: 61f148d406ad74319aadcbb053e2c8cf
+      internalID: -142679242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_188
+      name: barbarian_188
       rect:
         serializedVersion: 2
         x: 640
@@ -4066,20 +4066,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b45f5735fe25a49c98ea1a90cf4b710c
-      internalID: -967724138
+      spriteID: 2233707aeb2964698836699d7a417c23
+      internalID: -1958871253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_189
+      name: barbarian_189
       rect:
         serializedVersion: 2
         x: 672
@@ -4087,20 +4087,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1667f3409a87741859415a938d191c73
-      internalID: 815988002
+      spriteID: 5d2ac660693e34bcc923c73962882f87
+      internalID: -1339077635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_190
+      name: barbarian_190
       rect:
         serializedVersion: 2
         x: 704
@@ -4108,20 +4108,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 807848d54f30a4a6084353645225c127
-      internalID: -125358607
+      spriteID: 79da83d9add8a4e07b999e93a24a4a2b
+      internalID: 157748648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_191
+      name: barbarian_191
       rect:
         serializedVersion: 2
         x: 736
@@ -4129,20 +4129,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ec212f6d821041cf9c37ffb8da14fdc
-      internalID: 761995088
+      spriteID: 4cc9ee44021c3442fba833e82c88df71
+      internalID: -338901379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_192
+      name: barbarian_192
       rect:
         serializedVersion: 2
         x: 768
@@ -4150,20 +4150,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e696912f1f414559a66a75e1d47a9fb
-      internalID: 718882692
+      spriteID: b2a00fab05afd44cfa7ec93e785d949f
+      internalID: -48732501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_193
+      name: barbarian_193
       rect:
         serializedVersion: 2
         x: 800
@@ -4171,20 +4171,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3738cbabeda342df8744876b4db886a
-      internalID: -418670540
+      spriteID: 002d53c0018db4e909633adeb77708e3
+      internalID: -1750380485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_194
+      name: barbarian_194
       rect:
         serializedVersion: 2
         x: 832
@@ -4192,20 +4192,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 042909abbb8b74a05bec496177b9b550
-      internalID: -1530373189
+      spriteID: f0f2878388fd24448b3006908c8a0cf1
+      internalID: -625944509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_195
+      name: barbarian_195
       rect:
         serializedVersion: 2
         x: 864
@@ -4213,20 +4213,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a92698678ed404f62b01ba5917a38136
-      internalID: 1462837766
+      spriteID: 5632fca2f6415440ba2e2fb23b8cdd11
+      internalID: 1576408586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_196
+      name: barbarian_196
       rect:
         serializedVersion: 2
         x: 0
@@ -4234,20 +4234,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42deed051c3fe4a28b0bde193cb3e7d2
-      internalID: -229074767
+      spriteID: e65c06c727e794731aaa3d33741e01ca
+      internalID: -295179402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_197
+      name: barbarian_197
       rect:
         serializedVersion: 2
         x: 32
@@ -4255,20 +4255,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e16a622fe0484a85a434bf0d2822b54
-      internalID: -1126333401
+      spriteID: 335fa0d31faa144c7b6be5c3401b57ba
+      internalID: 1236592577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_198
+      name: barbarian_198
       rect:
         serializedVersion: 2
         x: 64
@@ -4276,20 +4276,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ec9b0952714142afb818ff6044a5382
-      internalID: 1902567455
+      spriteID: cf1523722dc794ab28f88a3cc01f845a
+      internalID: -962835144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_199
+      name: barbarian_199
       rect:
         serializedVersion: 2
         x: 96
@@ -4297,20 +4297,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30bc01581518341689383381da484fb4
-      internalID: 650721040
+      spriteID: 26e92161c488742acaeeaf6091acaf03
+      internalID: 659040627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_200
+      name: barbarian_200
       rect:
         serializedVersion: 2
         x: 128
@@ -4318,20 +4318,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bb2af49c902949dda4b8b6ced88d516
-      internalID: -718665388
+      spriteID: d6fcd79c6bde342899d9f668370cc3c0
+      internalID: 1985974225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_201
+      name: barbarian_201
       rect:
         serializedVersion: 2
         x: 160
@@ -4339,20 +4339,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cccb98dbae5c94749b4188fca2f01672
-      internalID: 2143187690
+      spriteID: 62e1a217be6c34e4385a46f106e94951
+      internalID: -660862918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_202
+      name: barbarian_202
       rect:
         serializedVersion: 2
         x: 192
@@ -4360,20 +4360,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3bc683c358dd4c4c88d9f24c147f54f
-      internalID: -1883922520
+      spriteID: 068c52343601a420ab1ffc603a743b2a
+      internalID: 1802876634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_203
+      name: barbarian_203
       rect:
         serializedVersion: 2
         x: 224
@@ -4381,20 +4381,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ff9eeb4b9b4b459ab597e9023ebb0e3
-      internalID: 736998663
+      spriteID: fe351b60172d44da682f1b424c3745b7
+      internalID: 571421176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_204
+      name: barbarian_204
       rect:
         serializedVersion: 2
         x: 256
@@ -4402,20 +4402,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ce5a3e8a7fda4a0a89862085495da2d
-      internalID: 829723852
+      spriteID: 0909e8458bb9d425c88e816d6479638c
+      internalID: -1471518926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_205
+      name: barbarian_205
       rect:
         serializedVersion: 2
         x: 288
@@ -4423,20 +4423,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5577ef80f09d493b8ae7b27fa7aa080
-      internalID: 759284450
+      spriteID: 6c09bb3409d68494abe597476d66481e
+      internalID: 1419547226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_206
+      name: barbarian_206
       rect:
         serializedVersion: 2
         x: 320
@@ -4444,20 +4444,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1d9c400ee67c432e90186326eb40b03
-      internalID: -704608720
+      spriteID: f480ef7b38b834fd595a322acf145e2a
+      internalID: -10496275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_207
+      name: barbarian_207
       rect:
         serializedVersion: 2
         x: 352
@@ -4465,20 +4465,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad10bd3ed5db444ceb6f58120c4f50fa
-      internalID: -849791306
+      spriteID: b6660a7184e2c42a1966a7f500bfc9c3
+      internalID: -1528248734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_208
+      name: barbarian_208
       rect:
         serializedVersion: 2
         x: 384
@@ -4486,20 +4486,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9481e40afe5b4d25b6533f66f9c0d09
-      internalID: 1470435331
+      spriteID: 822d99d23608b44c3b0cb817ff0e58c8
+      internalID: -10307757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_209
+      name: barbarian_209
       rect:
         serializedVersion: 2
         x: 416
@@ -4507,20 +4507,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 555ba5ffcd9324d53af73ecdddf5efc2
-      internalID: -692441950
+      spriteID: 427f81ffd70964f9f9c32dfa056b3b6e
+      internalID: 1078281298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_210
+      name: barbarian_210
       rect:
         serializedVersion: 2
         x: 448
@@ -4528,20 +4528,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47b0e5a94e1e84808a94a98284ab2e72
-      internalID: 1085903995
+      spriteID: 588f16d889b5b45d096c239ea3b20482
+      internalID: 1632839851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_211
+      name: barbarian_211
       rect:
         serializedVersion: 2
         x: 480
@@ -4549,20 +4549,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a593c88807584c3daf64645df7321bd
-      internalID: -439253456
+      spriteID: a5596b7b9dda74005b23e64b43080540
+      internalID: -1943934330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_212
+      name: barbarian_212
       rect:
         serializedVersion: 2
         x: 512
@@ -4570,20 +4570,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b7295392a1d44c4b8953e01fa80154f
-      internalID: 23031074
+      spriteID: 1f330d849b00342a18f53717524f3656
+      internalID: 1855587732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_213
+      name: barbarian_213
       rect:
         serializedVersion: 2
         x: 544
@@ -4591,20 +4591,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db4e4a917e0a74deb8d5e9d14d3af9cd
-      internalID: -1398006218
+      spriteID: 0f19ea6f8db094517bf9df70dd8d6695
+      internalID: -89904594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_214
+      name: barbarian_214
       rect:
         serializedVersion: 2
         x: 576
@@ -4612,20 +4612,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78afdb0fe45434dcf89a3c74ccc24912
-      internalID: -143348283
+      spriteID: 739a8a417324b430689c59f54564376b
+      internalID: -1957199850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_215
+      name: barbarian_215
       rect:
         serializedVersion: 2
         x: 608
@@ -4633,20 +4633,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 584645593b8604acfba8de8627cbf792
-      internalID: 2031523637
+      spriteID: 90ae572d873b6424b9578ce76c9893c6
+      internalID: -687821492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_216
+      name: barbarian_216
       rect:
         serializedVersion: 2
         x: 640
@@ -4654,20 +4654,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5376aee40b85a46a79066874df3b2e1f
-      internalID: -1311072217
+      spriteID: e0e384ae814374eb999484adb5dca0fc
+      internalID: -866848040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_217
+      name: barbarian_217
       rect:
         serializedVersion: 2
         x: 672
@@ -4675,20 +4675,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 481d382f6e87142e691c4331ad5be1b1
-      internalID: -412829418
+      spriteID: 49fba0121761e4d01b072a7129c98232
+      internalID: -1071665966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_218
+      name: barbarian_218
       rect:
         serializedVersion: 2
         x: 704
@@ -4696,20 +4696,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c833d66925d6d4334b4c6f070fd22ecd
-      internalID: 1018057906
+      spriteID: fdab79a2f0b3c4eacaedf3f37b3d13be
+      internalID: -1786890697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_219
+      name: barbarian_219
       rect:
         serializedVersion: 2
         x: 736
@@ -4717,20 +4717,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f0e4c4d688604455bf265be1e3ff73a
-      internalID: -295248481
+      spriteID: 9925da339c2e846abbe4e3e719150033
+      internalID: 865658730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_220
+      name: barbarian_220
       rect:
         serializedVersion: 2
         x: 768
@@ -4738,20 +4738,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 842b61546596c4c63a32944314e42967
-      internalID: -1612349288
+      spriteID: c9885e3c3f12c48689ab848a794a5153
+      internalID: 622069016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_221
+      name: barbarian_221
       rect:
         serializedVersion: 2
         x: 800
@@ -4759,20 +4759,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 917d84fb7b259498da9a8be9381f1f07
-      internalID: -1658864604
+      spriteID: 7b8adc615b3fc409791bcde9c251c74f
+      internalID: -1383630191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_222
+      name: barbarian_222
       rect:
         serializedVersion: 2
         x: 832
@@ -4780,20 +4780,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f5ea8b19ea384f65851cf0c89a1f7d5
-      internalID: 655816420
+      spriteID: 5513280a3bac54883b81615dd0a34cd9
+      internalID: -362478536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight_223
+      name: barbarian_223
       rect:
         serializedVersion: 2
         x: 864
@@ -4801,14 +4801,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.2}
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 134f5d1fb833d4b9f9caf2035d568a7a
-      internalID: -874055133
+      spriteID: 215a5e69688c645a0914e100d32195e4
+      internalID: -1792737855
       vertices: []
       indices: 
       edges: []
@@ -4824,230 +4824,230 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      knight_0: -505856929
-      knight_1: 929658797
-      knight_10: -1930458129
-      knight_100: 1479153718
-      knight_101: 1729954354
-      knight_102: -1272488208
-      knight_103: -1881530823
-      knight_104: -69432843
-      knight_105: -1811439354
-      knight_106: -263753474
-      knight_107: -36502349
-      knight_108: -1109534418
-      knight_109: 343314470
-      knight_11: 2037042130
-      knight_110: 1297203535
-      knight_111: 1668416840
-      knight_112: -1930495763
-      knight_113: -415375091
-      knight_114: 770966859
-      knight_115: -251436039
-      knight_116: -846614458
-      knight_117: 399944882
-      knight_118: 175548429
-      knight_119: -1713955388
-      knight_12: -973866565
-      knight_120: -292460251
-      knight_121: 1408981167
-      knight_122: 1369843975
-      knight_123: -565574414
-      knight_124: 1345512106
-      knight_125: -318463694
-      knight_126: 813644887
-      knight_127: 380268665
-      knight_128: 896233606
-      knight_129: 348551520
-      knight_13: 2145194458
-      knight_130: -1714195160
-      knight_131: 15084218
-      knight_132: 370740317
-      knight_133: 1467081646
-      knight_134: 1996017026
-      knight_135: -1776589626
-      knight_136: 304181483
-      knight_137: -1069977485
-      knight_138: -40102468
-      knight_139: -598050565
-      knight_14: -1524094801
-      knight_140: 263860094
-      knight_141: -557945712
-      knight_142: 531748515
-      knight_143: -561842047
-      knight_144: -1901679222
-      knight_145: 102433801
-      knight_146: -1887894770
-      knight_147: -1679072299
-      knight_148: 2027798956
-      knight_149: -681018190
-      knight_15: -633344658
-      knight_150: -364355491
-      knight_151: 1540911924
-      knight_152: -1187102514
-      knight_153: 1615126484
-      knight_154: -809740986
-      knight_155: 2071651182
-      knight_156: -1641143266
-      knight_157: -179292200
-      knight_158: -917395151
-      knight_159: 1061097362
-      knight_16: -1714944255
-      knight_160: 1633069463
-      knight_161: -616628633
-      knight_162: -1442812489
-      knight_163: 1585581745
-      knight_164: 563166368
-      knight_165: -2079087262
-      knight_166: 1992395282
-      knight_167: 115186511
-      knight_168: 1479915589
-      knight_169: 1410244943
-      knight_17: -1866345678
-      knight_170: -1175536918
-      knight_171: -1678316281
-      knight_172: -1445696569
-      knight_173: 922756523
-      knight_174: 871382517
-      knight_175: -383387657
-      knight_176: 1489823455
-      knight_177: 1879804164
-      knight_178: 2037776208
-      knight_179: 927168134
-      knight_18: -497114067
-      knight_180: -944793823
-      knight_181: -1677456827
-      knight_182: 593563016
-      knight_183: 1693816779
-      knight_184: 961079627
-      knight_185: -793460970
-      knight_186: -519345458
-      knight_187: 269666265
-      knight_188: -967724138
-      knight_189: 815988002
-      knight_19: 864741057
-      knight_190: -125358607
-      knight_191: 761995088
-      knight_192: 718882692
-      knight_193: -418670540
-      knight_194: -1530373189
-      knight_195: 1462837766
-      knight_196: -229074767
-      knight_197: -1126333401
-      knight_198: 1902567455
-      knight_199: 650721040
-      knight_2: 1479679677
-      knight_20: 1323277766
-      knight_200: -718665388
-      knight_201: 2143187690
-      knight_202: -1883922520
-      knight_203: 736998663
-      knight_204: 829723852
-      knight_205: 759284450
-      knight_206: -704608720
-      knight_207: -849791306
-      knight_208: 1470435331
-      knight_209: -692441950
-      knight_21: -1649889785
-      knight_210: 1085903995
-      knight_211: -439253456
-      knight_212: 23031074
-      knight_213: -1398006218
-      knight_214: -143348283
-      knight_215: 2031523637
-      knight_216: -1311072217
-      knight_217: -412829418
-      knight_218: 1018057906
-      knight_219: -295248481
-      knight_22: -555302968
-      knight_220: -1612349288
-      knight_221: -1658864604
-      knight_222: 655816420
-      knight_223: -874055133
-      knight_23: 1284123146
-      knight_24: 1527538145
-      knight_25: -1374591636
-      knight_26: -809639278
-      knight_27: -614962097
-      knight_28: 1884484855
-      knight_29: 1236029019
-      knight_3: 2097712770
-      knight_30: -684933164
-      knight_31: 1494419601
-      knight_32: 920613114
-      knight_33: 1697108232
-      knight_34: 382962547
-      knight_35: 1835504906
-      knight_36: -1096475001
-      knight_37: -1804793351
-      knight_38: 1257277601
-      knight_39: 757528728
-      knight_4: 2005707991
-      knight_40: -203997807
-      knight_41: 803056527
-      knight_42: 1655652342
-      knight_43: 412606674
-      knight_44: -1938617930
-      knight_45: -439634643
-      knight_46: -1763055464
-      knight_47: -1664806639
-      knight_48: 561499006
-      knight_49: -674201502
-      knight_5: -1380660302
-      knight_50: -337471838
-      knight_51: -266713899
-      knight_52: -1061431842
-      knight_53: -1335065932
-      knight_54: 1411820588
-      knight_55: -1801777988
-      knight_56: 468383293
-      knight_57: -588142067
-      knight_58: -1489483809
-      knight_59: 377097558
-      knight_6: -1952430268
-      knight_60: -837625625
-      knight_61: -1926178714
-      knight_62: -976773163
-      knight_63: 1112110377
-      knight_64: -1995111656
-      knight_65: -1363785121
-      knight_66: 1830580728
-      knight_67: -397280026
-      knight_68: 995917246
-      knight_69: 1442841494
-      knight_7: 1924039223
-      knight_70: 1064608023
-      knight_71: -1194998844
-      knight_72: 1574180165
-      knight_73: -1300708937
-      knight_74: -761786293
-      knight_75: -2144531469
-      knight_76: 1246298823
-      knight_77: -189807883
-      knight_78: -1681506846
-      knight_79: -106290767
-      knight_8: -1126689817
-      knight_80: -442015388
-      knight_81: -1971670522
-      knight_82: 1190497597
-      knight_83: -350109652
-      knight_84: -466310753
-      knight_85: 1944238639
-      knight_86: -1562097901
-      knight_87: -2054553751
-      knight_88: -2107722834
-      knight_89: -1631685037
-      knight_9: -576081849
-      knight_90: 2114746632
-      knight_91: -525101592
-      knight_92: 1467967938
-      knight_93: 280003946
-      knight_94: 384486451
-      knight_95: -668787174
-      knight_96: 1289052631
-      knight_97: -171474989
-      knight_98: 958858956
-      knight_99: 977575134
+      barbarian_0: 460589901
+      barbarian_1: -1871091786
+      barbarian_10: 187885749
+      barbarian_100: 1451422572
+      barbarian_101: 1938555002
+      barbarian_102: 867016487
+      barbarian_103: -1157643665
+      barbarian_104: 1591518927
+      barbarian_105: 507200514
+      barbarian_106: -1040873035
+      barbarian_107: 1108523399
+      barbarian_108: -26467825
+      barbarian_109: -938139074
+      barbarian_11: -304197915
+      barbarian_110: -1493506465
+      barbarian_111: -2117549073
+      barbarian_112: -2111976239
+      barbarian_113: 2051730013
+      barbarian_114: -227960949
+      barbarian_115: 2000540396
+      barbarian_116: 974930606
+      barbarian_117: -332999879
+      barbarian_118: -1328181299
+      barbarian_119: -858748150
+      barbarian_12: 465759288
+      barbarian_120: -1631960905
+      barbarian_121: -1909980254
+      barbarian_122: -163964347
+      barbarian_123: -1215573882
+      barbarian_124: -1453911395
+      barbarian_125: 1807808176
+      barbarian_126: 661342480
+      barbarian_127: -88861811
+      barbarian_128: -1582692402
+      barbarian_129: -309902286
+      barbarian_13: -1718294151
+      barbarian_130: 835779718
+      barbarian_131: 1000363137
+      barbarian_132: -1355214556
+      barbarian_133: 812111139
+      barbarian_134: 199753163
+      barbarian_135: -410860394
+      barbarian_136: -386494530
+      barbarian_137: -1165541708
+      barbarian_138: 719197297
+      barbarian_139: -290841525
+      barbarian_14: 1315535972
+      barbarian_140: 999115412
+      barbarian_141: 616827110
+      barbarian_142: 274966356
+      barbarian_143: -1324014547
+      barbarian_144: 1070282479
+      barbarian_145: 307190445
+      barbarian_146: 2021548582
+      barbarian_147: 276867916
+      barbarian_148: -313236746
+      barbarian_149: -1262764497
+      barbarian_15: -973346530
+      barbarian_150: 347913679
+      barbarian_151: 470803407
+      barbarian_152: -248073835
+      barbarian_153: 46481932
+      barbarian_154: -974574696
+      barbarian_155: -1208985373
+      barbarian_156: 869063192
+      barbarian_157: -388882275
+      barbarian_158: 231338135
+      barbarian_159: -1780928944
+      barbarian_16: -247783475
+      barbarian_160: 1704663031
+      barbarian_161: -1671756128
+      barbarian_162: 412435224
+      barbarian_163: 423619024
+      barbarian_164: 1784781922
+      barbarian_165: -1270570276
+      barbarian_166: 1799122311
+      barbarian_167: -744100991
+      barbarian_168: 1659523810
+      barbarian_169: -1828252367
+      barbarian_17: 1557760508
+      barbarian_170: 1258760547
+      barbarian_171: -1797403962
+      barbarian_172: 1312568661
+      barbarian_173: -913876977
+      barbarian_174: -1191921431
+      barbarian_175: 2132013805
+      barbarian_176: -1505301411
+      barbarian_177: -426123151
+      barbarian_178: -190599016
+      barbarian_179: -2123449411
+      barbarian_18: 486797956
+      barbarian_180: 537924073
+      barbarian_181: -1474401765
+      barbarian_182: 102776662
+      barbarian_183: 1155668461
+      barbarian_184: -1825364842
+      barbarian_185: 2128947311
+      barbarian_186: 1370783985
+      barbarian_187: -142679242
+      barbarian_188: -1958871253
+      barbarian_189: -1339077635
+      barbarian_19: -621598093
+      barbarian_190: 157748648
+      barbarian_191: -338901379
+      barbarian_192: -48732501
+      barbarian_193: -1750380485
+      barbarian_194: -625944509
+      barbarian_195: 1576408586
+      barbarian_196: -295179402
+      barbarian_197: 1236592577
+      barbarian_198: -962835144
+      barbarian_199: 659040627
+      barbarian_2: -925339639
+      barbarian_20: -1461112741
+      barbarian_200: 1985974225
+      barbarian_201: -660862918
+      barbarian_202: 1802876634
+      barbarian_203: 571421176
+      barbarian_204: -1471518926
+      barbarian_205: 1419547226
+      barbarian_206: -10496275
+      barbarian_207: -1528248734
+      barbarian_208: -10307757
+      barbarian_209: 1078281298
+      barbarian_21: -721069993
+      barbarian_210: 1632839851
+      barbarian_211: -1943934330
+      barbarian_212: 1855587732
+      barbarian_213: -89904594
+      barbarian_214: -1957199850
+      barbarian_215: -687821492
+      barbarian_216: -866848040
+      barbarian_217: -1071665966
+      barbarian_218: -1786890697
+      barbarian_219: 865658730
+      barbarian_22: 1750373005
+      barbarian_220: 622069016
+      barbarian_221: -1383630191
+      barbarian_222: -362478536
+      barbarian_223: -1792737855
+      barbarian_23: 1184576236
+      barbarian_24: -1402113421
+      barbarian_25: -798090565
+      barbarian_26: 559525157
+      barbarian_27: -921091668
+      barbarian_28: 1608586650
+      barbarian_29: 365598652
+      barbarian_3: 404145474
+      barbarian_30: 45745008
+      barbarian_31: -900298756
+      barbarian_32: -1848905480
+      barbarian_33: -838896045
+      barbarian_34: 465828972
+      barbarian_35: 1864607273
+      barbarian_36: -643411554
+      barbarian_37: -1645026638
+      barbarian_38: -728365518
+      barbarian_39: 987741162
+      barbarian_4: 1857616441
+      barbarian_40: 458691673
+      barbarian_41: 138927472
+      barbarian_42: -303441379
+      barbarian_43: 148247680
+      barbarian_44: -1569735609
+      barbarian_45: -1602554264
+      barbarian_46: 1785775852
+      barbarian_47: -1120349993
+      barbarian_48: -664340686
+      barbarian_49: 1468790233
+      barbarian_5: -338273355
+      barbarian_50: 1009760269
+      barbarian_51: 1105724000
+      barbarian_52: -605049686
+      barbarian_53: -571886609
+      barbarian_54: -1902600212
+      barbarian_55: 2127484899
+      barbarian_56: -824013324
+      barbarian_57: 1682111042
+      barbarian_58: -218339059
+      barbarian_59: -893906399
+      barbarian_6: 1722697843
+      barbarian_60: -121946333
+      barbarian_61: -1316331882
+      barbarian_62: 537392307
+      barbarian_63: -1293496116
+      barbarian_64: -256895262
+      barbarian_65: 1323868621
+      barbarian_66: 2024342960
+      barbarian_67: 512568940
+      barbarian_68: -1203236397
+      barbarian_69: -1695815742
+      barbarian_7: -1528748944
+      barbarian_70: 1606796094
+      barbarian_71: -1801992940
+      barbarian_72: -139189250
+      barbarian_73: 1163964383
+      barbarian_74: 428001818
+      barbarian_75: -469949507
+      barbarian_76: -1339279115
+      barbarian_77: 765028009
+      barbarian_78: 800134851
+      barbarian_79: -1985862820
+      barbarian_8: 1851517759
+      barbarian_80: -136285112
+      barbarian_81: 1925826200
+      barbarian_82: 1503701533
+      barbarian_83: 1163337960
+      barbarian_84: -1978856330
+      barbarian_85: -703704099
+      barbarian_86: 1129091440
+      barbarian_87: 1091022304
+      barbarian_88: 1643479952
+      barbarian_89: 119896363
+      barbarian_9: -1952932663
+      barbarian_90: -824716326
+      barbarian_91: -1939832748
+      barbarian_92: -356903893
+      barbarian_93: -2042756834
+      barbarian_94: 1202327114
+      barbarian_95: 1746015707
+      barbarian_96: -57406704
+      barbarian_97: -1380942598
+      barbarian_98: -1073294225
+      barbarian_99: 1722568815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

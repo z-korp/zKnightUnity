@@ -477,50 +477,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: SettingsWindow
       objectReference: {fileID: 0}
-    - target: {fileID: 2868437176067066874, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2868437176067066874, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4061278881652572249, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4061278881652572249, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4061278881652572249, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4363539285374315852, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4363539285374315852, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4363539285374315852, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4831172656810668899, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4831172656810668899, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7231544161861142716, guid: 916455d888294466db7f293f22746f06, type: 3}
-      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: SetEffectsVolume
-      objectReference: {fileID: 0}
     - target: {fileID: 9014020902214262347, guid: 916455d888294466db7f293f22746f06, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -51067,7 +51023,7 @@ AudioSource:
   m_GameObject: {fileID: 1441558107}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -1850770530120842309, guid: 727c99d8117c3444f8788dbdc5f66bad, type: 2}
   m_audioClip: {fileID: 8300000, guid: 2be639d50082c4f46971a780d04cd2f4, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1

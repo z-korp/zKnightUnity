@@ -67,6 +67,7 @@
     <Compile Include="Assets/Scripts/OverlayTile.cs" />
     <Compile Include="Assets/Scripts/CharacterRange.cs" />
     <Compile Include="Assets/Scripts/TileClickManager.cs" />
+    <Compile Include="Assets/Scripts/Ennemy.cs" />
     <Compile Include="Assets/Scripts/MapGenerator.cs" />
     <Compile Include="Assets/Scripts/CharacterAnimator.cs" />
     <Compile Include="Assets/Scripts/MouseController.cs" />
