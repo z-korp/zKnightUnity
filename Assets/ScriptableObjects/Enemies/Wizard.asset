@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9ac54d57bb74cb6870adaa561ceb2d, type: 3}
+  m_Name: Wizard
+  m_EditorClassIdentifier: 
+  id: 3
+  enemyName: Wizard
+  description: 'A mage '
+  imageEnemy: {fileID: -1617400125, guid: cb318c47bc35d444bb959606eb55358c, type: 3}
+  health: 2
+  movementRange: 1
+  attackRange: 3
+  attackDamage: 2
+  idleAnimation: {fileID: 7400000, guid: a3a023059394e4af381a47f9dd580706, type: 2}

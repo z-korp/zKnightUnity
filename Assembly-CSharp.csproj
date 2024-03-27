@@ -66,13 +66,18 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/OverlayTile.cs" />
     <Compile Include="Assets/Scripts/CharacterRange.cs" />
+    <Compile Include="Assets/Scripts/PlayerData.cs" />
+    <Compile Include="Assets/Scripts/BaseCharacterData.cs" />
     <Compile Include="Assets/Scripts/TileClickManager.cs" />
+    <Compile Include="Assets/Scripts/PlayerManager.cs" />
     <Compile Include="Assets/Scripts/MapGenerator.cs" />
     <Compile Include="Assets/Scripts/CharacterAnimator.cs" />
+    <Compile Include="Assets/Scripts/EnnemyData.cs" />
     <Compile Include="Assets/Scripts/MouseController.cs" />
     <Compile Include="Assets/Scripts/OverlayManager.cs" />
     <Compile Include="Assets/Scripts/MapManager.cs" />
     <Compile Include="Assets/Scripts/PauseMenu.cs" />
+    <Compile Include="Assets/Scripts/EnemyManager.cs" />
     <Compile Include="Assets/Scripts/AudioManager.cs" />
     <Compile Include="Assets/Scripts/GridMovement.cs" />
     <Compile Include="Assets/Scripts/SettingsMenu.cs" />
