@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyManager : MonoBehaviour
 {
-    public EnemyData enemyData; // Assignez ceci dans l'inspecteur Unity avec votre ScriptableObject EnemyData
+    public EnemyData enemyData;
 
     private Animator animator;
     private AnimatorOverrideController animatorOverrideController;
@@ -26,7 +26,7 @@ public class EnemyManager : MonoBehaviour
     void SetupEnemy(EnemyData data)
     {
         id = data.id;
-        enemyName = data.enemyName;
+        enemyName = data.entityName;
         spriteRenderer.sprite = data.imageEnemy; // Assigne l'image de l'ennemi
         health = data.health;
 
@@ -35,6 +35,7 @@ public class EnemyManager : MonoBehaviour
         attackDamage = data.attackDamage;
         idleAnimation = data.idleAnimation;
 
+        // Animations idle pour setup rapide TBD: Create animator such as the player one and remove it from data
         animator = GetComponent<Animator>();
         animatorOverrideController = new AnimatorOverrideController(animator.runtimeAnimatorController);
         animator.runtimeAnimatorController = animatorOverrideController;

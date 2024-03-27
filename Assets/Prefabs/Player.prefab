@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 9028704415479226749}
   - component: {fileID: 5992420126680626519}
   - component: {fileID: 4456185607697869821}
+  - component: {fileID: 3836710066269429248}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -122,6 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48c0b7cf6733fd345b2e075cd08060bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  swingSound: {fileID: 8300000, guid: 2a92ee05c4fb44b319eb15b1f52bbd8d, type: 3}
 --- !u!136 &9028704415479226749
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -177,3 +179,20 @@ MonoBehaviour:
   tilemap: {fileID: 0}
   cam: {fileID: 0}
   mapGenerator: {fileID: 0}
+--- !u!114 &3836710066269429248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2818420200994682387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 527e8fe074a7542cd8ee4b1c657c3fec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerData: {fileID: 11400000, guid: 162b44bbd468d495bba25323de69da49, type: 2}
+  health: 0
+  movementRange: 0
+  attackRange: 0
+  attackDamage: 0

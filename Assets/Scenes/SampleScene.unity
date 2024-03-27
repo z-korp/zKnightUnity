@@ -177,7 +177,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3529281815591077287, guid: d75d0f32978944371800bcf558b80917, type: 3}
       propertyPath: m_Name
-      value: Enemy (1)
+      value: EnemyWizard
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -51723,7 +51723,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3529281815591077287, guid: d75d0f32978944371800bcf558b80917, type: 3}
       propertyPath: m_Name
-      value: Enemy
+      value: EnemyBow
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
