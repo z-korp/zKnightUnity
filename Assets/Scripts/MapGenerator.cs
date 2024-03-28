@@ -2,11 +2,12 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using TMPro;
 using System.Collections.Generic;
+using UnityTile = UnityEngine.Tilemaps.Tile;
 
 public class MapGenerator : MonoBehaviour
 {
     public Tilemap tilemap;
-    public Tile[] tiles; 
+    public UnityTile[] tiles; 
 
     public GameObject overlayTilePrefab; 
     public GameObject overlayTileContainer;
@@ -39,7 +40,7 @@ public class MapGenerator : MonoBehaviour
         {
             for (int y = -1; y <= mapData.GetLength(1); y++)
             {
-                Tile tile = tiles[waterIndex]; // Default to water tile at the borders
+                UnityTile tile = tiles[waterIndex]; // Default to water tile at the borders
 
                 if (x >= 0 && x < mapData.GetLength(0) && y >= 0 && y < mapData.GetLength(1))
                 {
