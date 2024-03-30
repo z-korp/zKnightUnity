@@ -44,11 +44,34 @@ public class GameManager : MonoBehaviour
         Debug.Log(account.Address);
 
         burnerManager = new BurnerManager(provider, account);
+
+        worldManager.synchronizationMaster.OnEntitySpawned.AddListener(InitEntity);
+        foreach (var entity in worldManager.Entities())
+        {
+            InitEntity(entity);
+        }
     }
 
     void Update()
     {
         
+    }
+
+    private void InitEntity(GameObject entity)
+    {
+        Tile tileComponent = entity.GetComponent<Tile>();
+        if (tileComponent != null)
+        {
+            // This entity is of type Tile, perform actions with its index
+            //Debug.Log($"Tile entity spawned with index: {tileComponent.index}");
+        }
+
+        Game gameComponent = entity.GetComponent<Game>();
+        if (gameComponent != null)
+        {
+            // This entity is of type Tile, perform actions with its index
+            Debug.Log($"Game entity spawned with id: {gameComponent.game_id}");
+        }
     }
 
     public async void TriggerCreatePlayAsync()
